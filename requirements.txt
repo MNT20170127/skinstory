@@ -1,0 +1,5 @@
+streamlit
+deepface
+opencv-python
+pillow
+tensorflow==2.12.0
